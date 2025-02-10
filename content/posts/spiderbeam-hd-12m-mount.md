@@ -21,3 +21,5 @@ This is what the construction looks like when mounted to the steel mast.
 ![](/img/spiderbeam-hd-12m-mount-03.jpg)
 
 You can download the design [here](/files/spiderbeam-hd-12m-mount.stl).
+
+Update 2025/02/10: This design as OpenSCAD file can be found [here](/experimenting-with-openscad).
