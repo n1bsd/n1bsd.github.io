@@ -2,7 +2,6 @@ This website is dedicated to [amateur radio](/a-declaration-of-love-to-amateur-r
 
 The idea behind this site is to document my various projects, to make them available to others and to myself, so that I don't forget the solutions.
 
+If you are interested in the story behind the domain rz01.org, you can [read it here](/why-rz01-org).
+
 **DISCLAIMER:** Reproduction of my own projects or those of others presented here is at your own risk! I am neither responsible for any damage to the equipment involved nor for any potential injuries. This is a hobby website, all content should only serve as a suggestion and not as a copy template. Think for yourself and scrutinize my actions.
-
-Furthermore, I would like to point out that I will not be adding any new features or fixing any bugs in the software I have developed. I also do not develop software for you on request by email.
-
