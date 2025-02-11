@@ -1,6 +1,6 @@
-baseURL = 'https://n1bsd.github.io/'
+baseURL = 'https://rz01.org/'
 languageCode = 'en-us'
-title = 'N1BSD'
+title = 'rz01.org'
 theme = 'nostyleplease'
 
 [permalinks]
