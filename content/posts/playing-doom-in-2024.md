@@ -103,28 +103,7 @@ Here is my recommended playing order for someone playing Doom the first time sin
 
 ## What's next?
 
-Welcome to the endless rabbit hole of Doom! You most likely won't live long enough to play all available maps and total conversions. The following (mega)wads are a good place to start:
-
-* [Hellbound](https://www.doomworld.com/files/file/17259-hellbound/) - excellent megawad with replay-value
-* [Doom the Way id Did](https://doomwiki.org/wiki/Doom_the_Way_id_Did) - as the name says: It's like the original and therfore great
-* [Doom 2 the Way id Did](https://doomwiki.org/wiki/Doom_2_the_Way_id_Did) - same as above
-* [Brutal Doom](https://www.moddb.com/mods/brutal-doom) - A must play
-* [Hell Ground](https://www.doomworld.com/idgames/levels/doom2/Ports/g-i/hg) 
-* [Pirate Doom](https://www.moddb.com/mods/pirate-doom) - Monkey Island meets Doom
-* [5till L1 Complex](https://www.doomworld.com/idgames/levels/doom2/Ports/0-9/5l1c) - one huge map with lots of places to explore
-* [Revolution!](https://www.doomworld.com/idgames/levels/doom2/megawads/tvr)
-* [The Ultimate NMD](https://www.doomworld.com/idgames/levels/doom/megawads/nmdu) - lots of fun. Easy in the beginning, moderate in the end
-* [Death in the a$$ of the Universe"](https://www.doomworld.com/idgames/levels/doom/megawads/niveles) - Starts easy and gets more difficult but nevr unfair. Plenty of ammo.
-* [RTC-3057](https://doomwiki.org/wiki/RTC-3057) - A brilliant space themed 3D adventure like Doom II partial conversion
-* [Suspended in Dusk](https://www.doomworld.com/idgames/levels/doom2/s-u/sid) - Four big, complex and beautiful levels
-
-Here's what was recommended to me but was not my cup of tea:
-
-* [Crumpets](https://www.doomworld.com/idgames/levels/doom2/Ports/a-c/crumpets) - excessive amount of overpowered monsters
-* [Lunatic](https://www.doomworld.com/idgames/levels/doom2/Ports/j-l/lunatic) - excessive amount of overpowered monsters
-* [Valiant](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/valiant) - excessive amount of overpowered monsters
-
-
+Welcome to the endless rabbit hole of Doom! You most likely won't live long enough to play all available maps and total conversions. All WADs I've played and what I think about them can be found [here](/doom-wad-log/).
 
 To play Doom with such a (mega)wad, simply add the name of the wad as an option when starting GZDoom:
 
