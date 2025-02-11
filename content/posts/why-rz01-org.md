@@ -1,9 +1,8 @@
 +++
 slug = 'why-rz01-org'
 title = "Why rz01.org?"
-date = 2025-02-11T08:00:00+00:00
+date = 2025-02-11T09:00:00+00:00
 draft = false
-showthedate = false
 +++
 
 What is this domain all about and how does it relate to this website?
