@@ -35,4 +35,5 @@ The following table lists all WADs in the order in which I have played them and 
 |[UAC DEAD](https://www.doomworld.com/idgames/index.php?id=420) | 1 | 1994 | 1 | ✔ | very enjoyable | \*\*\* |
 |[Serenity](https://www.doomworld.com/idgames/index.php?id=1033) | 1 | 1994 | 8 | ✔ | relaxing and nice gameplay, quite easy | \*\*\* |
 |[CROSSING ACHERON](https://www.doomworld.com/idgames/levels/doom/a-c/acheron) | 1 | 1994 | 1 | ✔ | confusing but fun | \*\*\* |
-|[ETERNITY](https://www.doomworld.com/idgames/levels/doom/d-f/eternity) | 8 | 1994 | 1 | ✔ | Kinda easy, nice flow, lots of fun | \*\*\*\* |
+|[ETERNITY](https://www.doomworld.com/idgames/levels/doom/d-f/eternity) | 1 | 1994 | 8 | ✔ | Kinda easy, nice flow, lots of fun | \*\*\*\* |
+|[Trinity College](https://www.doomworld.com/idgames/themes/university/trinity2) | 1 | 1994 | 1 | ✔ | Nice textures, quite easy, kinda strange | \*\* |
