@@ -34,3 +34,4 @@ The following table lists all WADs in the order in which I have played them and 
 |[Suspended in Dusk](https://www.doomworld.com/idgames/levels/doom2/s-u/sid) | 2| 2005 | 4 | ✔ | Four big, complex and beautiful levels | \*\*\*\* |
 |[UAC DEAD](https://www.doomworld.com/idgames/index.php?id=420) | 1 | 1994 | 1 | ✔ | very enjoyable | \*\*\* |
 |[Serenity](https://www.doomworld.com/idgames/index.php?id=1033) | 1 | 1994 | 8 | ✔ | relaxing and nice gameplay, quite easy | \*\*\* |
+|[CROSSING ACHERON](https://www.doomworld.com/idgames/levels/doom/a-c/acheron) | 1 | 1994 | 1 | ✔ | confusing but fun | \*\*\* |
