@@ -37,3 +37,4 @@ The following table lists all WADs in the order in which I have played them and 
 |[CROSSING ACHERON](https://www.doomworld.com/idgames/levels/doom/a-c/acheron) | 1 | 1994 | 1 | ✔ | confusing but fun | \*\*\* |
 |[ETERNITY](https://www.doomworld.com/idgames/levels/doom/d-f/eternity) | 1 | 1994 | 8 | ✔ | Kinda easy, nice flow, lots of fun | \*\*\*\* |
 |[Trinity College](https://www.doomworld.com/idgames/themes/university/trinity2) | 1 | 1994 | 1 | ✔ | Nice textures, quite easy, kinda strange | \*\* |
+|[Return to Phobos](https://www.doomworld.com/idgames/index.php?id=690) | 1 | 1994 | 8 | ✔ | Sometimes a jump and run but very fun. Low monster load, plenty of ammo/items | \*\*\*\* |
