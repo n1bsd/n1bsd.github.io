@@ -1,4 +1,4 @@
-This website is dedicated to [amateur radio](/a-declaration-of-love-to-amateur-radio/) and electronic tinkering. I also rarely write about retro computing or about topics related to GNU/Linux or BSD.
+This website is dedicated to [amateur radio](/a-declaration-of-love-to-amateur-radio/), electronic tinkering, retro computing, homelab building and other (mostly technical) topics.
 
 The idea behind this site is to document my various projects, to make them available to others and to myself, so that I don't forget the solutions.
 
