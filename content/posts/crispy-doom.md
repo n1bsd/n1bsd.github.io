@@ -23,3 +23,5 @@ For a quick start, here is the command line on how to start the one map PWAD ACH
 ```
 user@debian:~/wads$ crispy-doom -iwad DOOM.WAD -merge ACHERON.WAD -warp 13
 ```
+
+I highly recommend downloading the high quality music packs from [Brandon Blume](https://sc55.duke4.net/games.php#doom). These packs consist of recordings with a Roland SC-55 in OGG, MP3 or FLAC format. Just download the packs und unzip them into _~/.local/share/crispy-doom/music-packs_. Crispy Doom will automatically select them based on their file names and plays them instead of the original MIDI files.
