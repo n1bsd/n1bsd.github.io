@@ -1,0 +1,36 @@
+[[entries]]
+title = "latest posts"
+
+  [entries.post_list]
+  section = "posts"
+  limit = 10
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "regularly updated or pinned posts"
+
+  [[entries.entries]]
+  title = "List of online Tools for Blue Teamers"
+  url = "/blueteam-tools/"
+
+  [[entries.entries]]
+  title = "Doom WAD Logbook"
+  url = "/doom-wad-log/"
+
+[[entries]]
+title = "meta"
+
+  [[entries.entries]]
+  title = "About"
+  url = "/about"
+
+  [[entries.entries]]
+  title = "Contact"
+  url = "/contact"
+
+  [[entries.entries]]
+  title = "RSS"
+  url = "index.xml"
+

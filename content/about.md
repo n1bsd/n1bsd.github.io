@@ -1,9 +1,19 @@
 +++
-slug = 'why-rz01-org'
-title = "Why rz01.org?"
+slug = 'about'
+title = "About"
 date = 2025-02-11T09:00:00+00:00
 draft = false
 +++
+
+## What is this website about?
+
+This website is dedicated to [amateur radio](/a-declaration-of-love-to-amateur-radio/), electronic tinkering, cybersecurity, retro computing, homelab building and other (mostly technical) topics.
+
+## Why?
+
+This blog is not intended to be read by a broad audience. The idea behind this site is to document my various projects, to make them available to friends and to myself, so that I don't forget the solutions. I mostly enjoy throwing links to posts of mine at people I am chatting with.
+
+## Why the domain rz01.org?
 
 What is this domain all about and how does it relate to this website?
 

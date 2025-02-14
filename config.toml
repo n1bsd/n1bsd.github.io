@@ -46,10 +46,18 @@ favicon = 'favicon.ico'
     date_format       = "2006-01-02"
     isListGroupByDate = false
     isShowFooter      = false
+  [[entries]]
+  title = "info"
 
-  [[params.entries]]
-    [params.entries.post_list]
-      limit          = 0
-      show_more      = false
-      show_more_text = ""
-      show_more_url  = ""
+#     [[entries.entries]]
+#     title = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
+#
+#     [[entries.entries]]
+#     title = "github repo"
+#     url = "https://github.com/hanwenguo/hugo-theme-nostyleplease"
+#  [[params.entries]]
+#    [params.entries.post_list]
+#      limit          = 0
+#      show_more      = false
+#      show_more_text = ""
+#      show_more_url  = ""
